@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RectanglesViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
